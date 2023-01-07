@@ -1,5 +1,7 @@
 # Musubi - WIP
-![Musubi pcb](/pictures/pcb_preview.png | width=400)
+
+![Musubi pcb](/pictures/pcb_preview.png)
+
 Musubi is a 38 key split keyboard using Kailh X switches and Seeeduino Xiao. This keyboard has Dust keyboard as a base and adjusted with customized layout and design elements from my favorite keyboards.
 
 * [Dust by Jason Hazel](https://github.com/jasonhazel/dust)
