@@ -1,3 +1,6 @@
+// This keymap is modified copy of Dilemma's VIA keymap
+// https://github.com/qmk/qmk_firmware/tree/master/keyboards/bastardkb/dilemma/3x5_2/keymaps/via
+
 #include QMK_KEYBOARD_H
 
 enum layers {
