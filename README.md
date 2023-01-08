@@ -13,7 +13,7 @@ Musubi is a 38 key split keyboard using Kailh X switches and Seeeduino Xiao. Thi
 * Reversible PCB
 * Columnn stagger with splay
 * 3x5 layout with 1 extra pinky and 3 thumb keys
-* Slim build ( measured from top keycap to bottom )
+* Slim build ( measured from keycap to bottom )
     - without case 6.7 mm
     - with case 9.7 mm
 * Tenting puck support
@@ -35,6 +35,7 @@ Musubi is a 38 key split keyboard using Kailh X switches and Seeeduino Xiao. Thi
     - M2 nuts - 4mm wide, 1.6mm tall (8)
     - SplitKB tenting puck or Lucky Pucker (2, optional)
     - Manfrotto Pocket Tripod (2, optional)
+    - Rubber feet (optional without tenting pucks)
 
 # Firmware
 This is WIP

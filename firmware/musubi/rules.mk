@@ -1,0 +1,22 @@
+MCU = RP2040
+BOOTLOADER = rp2040
+
+BOOTMAGIC_ENABLE    = no
+MOUSEKEY_ENABLE     = no
+EXTRAKEY_ENABLE     = yes
+CONSOLE_ENABLE      = no
+COMMAND_ENABLE      = no
+NKRO_ENABLE         = no
+BACKLIGHT_ENABLE    = no
+MIDI_ENABLE         = no
+UNICODE_ENABLE      = no
+UNICODEMAP_ENABLE   = no
+UCIS_ENABLE         = no
+AUDIO_ENABLE        = no
+VARIABLE_TRACE      = no
+KEY_LOCK_ENABLE     = no
+RGBLIGHT_ENABLE     = no
+MAGIC_ENABLE				= no
+
+SPLIT_KEYBOARD 			= yes
+SERIAL_DRIVER 			= vendor
