@@ -1,22 +1,37 @@
 # Musubi - Super thin 38 key split keyboard
 
-![Musubi pcb](/pictures/pcb_preview.png)
+<img src="https://github.com/wontaeyang/musubi/blob/main/pictures/musubi-angle.jpg" alt="Musubi-angle" width="600">
 
-Musubi is a 38 key split keyboard using Kailh X switches and Seeeduino Xiao. This keyboard has Dust keyboard as a base and adjusted with customized layout and design elements from my favorite keyboards.
+Musubi is a 38 key split keyboard using Kailh X switches and Seeeduino Xiao.
+This keyboard started with Dust keyboard as a base and adjusted with customized layout
+and design elements from my favorite keyboards.
 
-* [Dust by Jason Hazel](https://github.com/jasonhazel/dust)
+* [Dust by Hazel](https://github.com/jasonhazel/dust)
 * [Totem by GEIST](https://github.com/GEIGEIGEIST/TOTEM)
 * [Dilemma by BastardKB](https://github.com/Bastardkb/Dilemma)
+
+#### Currently there are two versions of the keyboard
+
+* **V1** (white)
+    - a lot more index and pinky column stagger
+    - thumb cluster is closer to the keyboard
+* **V2** (red)
+    - less aggressive column staggers
+    - thumb cluster is extended out
+
+<img src="https://github.com/wontaeyang/musubi/blob/main/pictures/comparison.jpg" alt="Musubi-angle" width="600">
 
 # Features
 
 * Reversible PCB
 * Columnn stagger with splay
-* 3x5 layout with 1 extra pinky and 3 thumb keys
+* 3x5 layout with 4 additional keys (three thumb, 1 pinky)
 * Slim build ( measured from keycap to bottom )
     - without case 6.7 mm
     - with case 9.7 mm
 * Tenting puck support
+
+<img src="https://github.com/wontaeyang/musubi/blob/main/pictures/musubi-side.JPG" alt="Musubi-side" width="600">
 
 # BOM
 
