@@ -26,7 +26,7 @@ and design elements from my favorite keyboards.
 # Features
 
 * Reversible PCB
-* Columnn stagger with splay
+* Column stagger with splay
 * 3x5 layout with 4 additional keys (three thumb, 1 pinky)
 * Slim build ( measured from keycap to bottom )
     - without case 6.7 mm
