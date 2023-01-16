@@ -3,11 +3,11 @@
 <img src="https://github.com/wontaeyang/musubi/blob/main/pictures/musubi-angle.jpg" alt="Musubi-angle" width="600">
 
 Musubi is a 38 key split keyboard using Kailh X switches and Seeeduino Xiao.
-This keyboard started with Dust keyboard as a base and adjusted with customized layout
+This keyboard started with dust keyboard as a base and adjusted with customized layout
 and design elements from my favorite keyboards.
 
-* [Dust by Hazel](https://github.com/jasonhazel/dust)
-* [Totem by GEIST](https://github.com/GEIGEIGEIST/TOTEM)
+* [dust by Hazel](https://github.com/jasonhazel/dust)
+* [TOTEM by GEIST](https://github.com/GEIGEIGEIST/TOTEM)
 * [Dilemma by BastardKB](https://github.com/Bastardkb/Dilemma)
 
 #### Currently there are two versions of the keyboard
@@ -53,6 +53,17 @@ and design elements from my favorite keyboards.
     - Tenting pucks (2, optional)
     - Manfrotto Pocket Tripod (2, optional)
     - Rubber feet (optional without tenting pucks)
+
+# Keyboard design files
+
+V1 files
+* [V1 PCB](https://github.com/wontaeyang/musubi/blob/main/PCB/Exports/V1/musubi-pcb.zip)
+* [V1 case](https://github.com/wontaeyang/musubi/tree/main/case/V1)
+
+V2 files
+* [V2 PCB](https://github.com/wontaeyang/musubi/blob/main/PCB/Exports/V2/musubi_pcb_rev2.zip)
+* [V2 case](https://github.com/wontaeyang/musubi/tree/main/case/V2)
+
 
 # Firmware
 
