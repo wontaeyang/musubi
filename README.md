@@ -14,10 +14,12 @@ and design elements from my favorite keyboards.
 
 * **V1** (white)
     - a lot more index and pinky column stagger
-    - thumb cluster is closer to the keyboard
+    - Totem like thumb cluster
 * **V2** (red)
     - less aggressive column staggers
     - thumb cluster is extended out
+    - TRRS socket location moved
+    - double puck mount for wider design
 
 <img src="https://github.com/wontaeyang/musubi/blob/main/pictures/comparison.jpg" alt="Musubi-angle" width="600">
 
@@ -48,7 +50,7 @@ and design elements from my favorite keyboards.
 * Musubi case (2, optional)
     - M2 4mm screw (8)
     - M2 nuts - 4mm wide, 1.6mm tall (8)
-    - SplitKB tenting puck or Lucky Pucker (2, optional)
+    - Tenting pucks (2, optional)
     - Manfrotto Pocket Tripod (2, optional)
     - Rubber feet (optional without tenting pucks)
 
