@@ -1,4 +1,4 @@
-# Musubi - A super thin 38 key split keyboard
+# Musubi - Super thin 38 key split keyboard
 
 ![Musubi pcb](/pictures/pcb_preview.png)
 

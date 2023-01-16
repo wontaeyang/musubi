@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "803ffff_7fffffff",
+    "visible_layers": "fffffff_fffffffe",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "musubi.kicad_prl",
+    "filename": "musubi_rev2.kicad_prl",
     "version": 3
   },
   "project": {
