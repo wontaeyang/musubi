@@ -60,7 +60,7 @@ V1 files
 * [V1 PCB](https://github.com/wontaeyang/musubi/blob/main/PCB/Exports/V1/musubi-pcb.zip)
 * [V1 case](https://github.com/wontaeyang/musubi/tree/main/case/V1)
 
-V2 files
+V2 files ( I am in process of building this right now so have not confirmed files are working 100%, please double check before ordering parts with these files )
 * [V2 PCB](https://github.com/wontaeyang/musubi/blob/main/PCB/Exports/V2/musubi_pcb_rev2.zip)
 * [V2 case](https://github.com/wontaeyang/musubi/tree/main/case/V2)
 
